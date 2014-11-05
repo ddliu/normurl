@@ -1,0 +1,17 @@
+{
+    "name": "ddliu/normurl",
+    "description": "Normalize URL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dong",
+            "email": "ddliuhb@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "psr-4": {
+        "ddliu\\normurl\\": "src/"
+    }
+}
