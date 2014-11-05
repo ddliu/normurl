@@ -1,6 +1,5 @@
 <?php
 use ddliu\normurl\Url;
-require __DIR__.'/../src/Url.php';
 
 class Test extends PHPUnit_Framework_TestCase {
     protected $tests = [

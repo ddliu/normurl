@@ -11,7 +11,9 @@
     "require": {
 
     },
-    "psr-4": {
-        "ddliu\\normurl\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "ddliu\\normurl\\": "src/"
+        }
     }
 }
